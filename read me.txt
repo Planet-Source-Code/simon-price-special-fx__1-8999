@@ -1,0 +1,5 @@
+Special FX by Simon Price - 17/7/00
+
+Here's just a few special effects which I have thought of to do with a picture because I've seen an interest in the subject at PSC (laser effects - whoever first thought of it well done). With this code you can make any picture wave like a flag and animate it to flip as if it were a 2D piece of card being turned over. Both these effects can be applied horizontally or vertically. There is also a bonus zoom effect thrown in there. All effects can have the speed adjusted for different tastes/PC's. Do whatever you want with this code, but if you use it you might wanna give me some credit in whatever you make out of it.
+  Also - if you like VB games programming - then visit my website www.VBgames.co.uk - I promise you won't be dissapointed.
+
